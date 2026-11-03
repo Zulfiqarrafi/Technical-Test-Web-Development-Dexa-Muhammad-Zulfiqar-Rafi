@@ -1,12 +1,6 @@
 # Technical Test Web Development — Dexa Group
 
-**Kandidat:** Muhammad Zulfiqar Rafi  
-**Posisi:** Fullstack Web Developer  
-**Repository:** [GitHub Repository](https://github.com/Zulfiqarrafi/Technical-Test-Web-Development-Dexa-Muhammad-Zulfiqar-Rafi)  
-**Dokumentasi Proyek:** Sistem Presensi WFH & Monitoring Karyawan (Satu Direktori Terpadu)
-
 ---
-
 ## Ringkasan Proyek
 
 Aplikasi web internal terintegrasi untuk pencatatan presensi *Work From Home* (WFH) karyawan beserta modul administrasi data master karyawan dan kontrol absensi oleh HRD, dikembangkan sesuai seluruh instruksi dan spesifikasi teknis Dexa Group.
