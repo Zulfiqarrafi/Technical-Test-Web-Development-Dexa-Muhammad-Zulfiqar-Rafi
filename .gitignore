@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+database/*.sqlite
+uploads/attendance/*
+!uploads/attendance/.gitkeep
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+(50) Dexa Group - Fullstack Web Technical Test.pdf
+
+

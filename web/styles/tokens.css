@@ -1,0 +1,51 @@
+:root {
+  --bg-canvas: #f4f5f7;
+  --bg-surface: #ffffff;
+  --bg-subtle: #f9fafb;
+  --bg-hover: #f3f4f6;
+
+  --border-default: #dfe3e8;
+  --border-strong: #c4cdd5;
+  --border-subtle: #edf0f2;
+
+  --text-primary: #161a1d;
+  --text-secondary: #454f5b;
+  --text-muted: #637381;
+
+  /* Corporate Maroon / Deep Red (Dexa Brand Identity) */
+  --brand-primary: #b32017;
+  --brand-hover: #961710;
+  --brand-soft: #fef2f2;
+  --brand-border: #fecaca;
+
+  --success-bg: #f0fdf4;
+  --success-text: #166534;
+  --success-border: #bbf7d0;
+
+  --warning-bg: #fffbeb;
+  --warning-text: #92400e;
+  --warning-border: #fde68a;
+
+  --danger-bg: #fef2f2;
+  --danger-text: #b91c1c;
+  --danger-border: #fecaca;
+
+  --info-bg: #eff6ff;
+  --info-text: #1e40af;
+  --info-border: #bfdbfe;
+
+  --neutral-bg: #f3f4f6;
+  --neutral-text: #374151;
+  --neutral-border: #e5e7eb;
+
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+
+  --shadow-xs: 0 1px 2px rgba(16, 24, 40, 0.04);
+  --shadow-md: 0 8px 24px rgba(15, 23, 42, 0.12);
+
+  --sidebar-width: 244px;
+  --topbar-height: 56px;
+}
+
